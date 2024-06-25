@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Full Stack Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/arunkumar-30?tab=repositories](https://github.com/arunkumar-30?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/kummariarunkumar?tab=repositories](https://github.com/arunkumar-30?tab=repositories)
 
 - 📝 I regularly write articles on [https://medium.com/@kummariarunkumar20](https://medium.com/@kummariarunkumar20)
 
